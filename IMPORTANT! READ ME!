@@ -1,0 +1,16 @@
+Welcome to the 484 Roboforce Programmer test. If you're reading this, that means you've already passed the first part,
+that being cloning Git repositories. While technically optional, it would benefit you greatly to read this welcome message 
+before continuing on with the test. You may notice that autocomplete and the changing of the color of words are disabled.
+this is intentional. All trainees taking the test will have to code with proper syntax from memory (Within reason, we're not 
+gonna fail you over a semicolon). Now that that's all said and done, let's start off with the rules:
+
+1. You may use any values you want when creating a variable, so long as it conforms to the rules of said variable type.
+2. You may use any name you like for objects, unless otherwise specified.
+3. Any syntax error relating to undefined variables or objects, or syntax errors relating to missing IDs, channels, etc.,
+will have no negative impact on your score.
+4. You must score 80% or higher to pass this test.
+5. Upon completion of the test, DO NOT push your changes to the Github. instead, this test is to be completed during meeting
+hours and shown to any programmer who has already passed the test.
+6. Your fellow programmers can help explain any questions you may not understand, but cannot help you reach the answer.
+7. You are allowed to use nonexistant objects and variables. You only need to create an object or variable when
+ specifically told to do so. I mean, you can if you want to, but it's not at all required.
