@@ -1,4 +1,1 @@
-Create a line of code that would tell a CANSparkMax motor object to spin at full power if an Int variable called "Variable" 
-plus 5 minus 3 times 8 divided by 3 is greater than or equal to 3 AND a boolean variable called "Boolean" is equal to
-TRUE, OR if Variable is less than or equal to 5. If neither of these are true, have a solenoid extend a piston
-
+Program a button to run a command of your choice.

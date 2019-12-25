@@ -1,0 +1,8 @@
+Create an Int variable of any value you like
+add 5
+subtract 3
+multiply by 6
+divide by 3
+if the end result is equal to 8, have a can spark max motor run at full power 
+If not, AND your Int is less than 5, OR your Int is greater than or equal to 6,
+have a  solenoid extend a piston
